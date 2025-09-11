@@ -11,3 +11,19 @@ IC Assignment 2: Chapter 2 of Ecology Handbook
  - Making an exponential equation to measure how quickly duckweed something
  - Minimal technical difficulties, bit better 
  - Works and indtroduced matplotlib, and plotting on x and y axis 
+
+
+
+IC Assignment 3: Chapter 3 of Ecology Handbook 
+  -logistic growth 
+  -how long to fill a 2mx2m plot 
+  -12 starting plant 
+  -40% die every year 
+  -1 seed germinates 
+  -k=400 
+  -s=1 
+  -x=400
+  -b=75 
+  -d=0.4
+  r=0.96
+  total days=240
