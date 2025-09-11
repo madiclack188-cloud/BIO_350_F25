@@ -15,16 +15,20 @@ IC Assignment 2: Chapter 2 of Ecology Handbook
 
 
 IC Assignment 3: Chapter 3 of Ecology Handbook 
-  -logistic growth 
-  -how long to fill a 2mx2m plot 
-  -12 starting plant 
-  -40% die every year 
-  -1 seed germinates 
-  -k=400 
-  -s=1 
-  -x=400
-  -b=75 
-  -d=0.4
-  r=0.96
-  total days=240
-  Made a good amount of errors before I got it right 
+  - logistic growth 
+  - how long to fill a 2mx2m plot 
+  - 12 starting plant 
+  - 40% die every year 
+  -  seed germinates 
+  - k=400 
+  - s=1 
+  - x=400
+  - b=75 
+  - d=0.4
+  - r=0.96
+  - total days=240
+  - Made a good amount of errors before I got it right 
+  - how long to fill? 
+     - Around 15 years I think 
+  - What does the population even out to? 
+    - Around 240 I think 
