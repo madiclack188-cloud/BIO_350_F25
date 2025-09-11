@@ -27,3 +27,4 @@ IC Assignment 3: Chapter 3 of Ecology Handbook
   -d=0.4
   r=0.96
   total days=240
+  Made a good amount of errors before I got it right 
