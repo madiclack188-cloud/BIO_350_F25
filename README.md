@@ -32,3 +32,14 @@ IC Assignment 3: Chapter 3 of Ecology Handbook
      - Around 15 years I think 
   - What does the population even out to? 
     - Around 240 I think 
+
+
+
+
+    IC Example 3
+      - Instering csv file 
+        - Making sure to save it into BIO file
+      - Plot code we have been using already 
+      - Making adjustments through highlighting code, right click, select "Copilot", then select "editor inline chat"
+      - Used this to find a carrying capacity 
+      - Enter and tabbed until copilot gave me what I wanted the graph to look like 
