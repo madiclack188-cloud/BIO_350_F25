@@ -36,10 +36,10 @@ IC Assignment 3: Chapter 3 of Ecology Handbook
 
 
 
-    IC Example 3
+    IC Example 2
       - Instering csv file 
         - Making sure to save it into BIO file
       - Plot code we have been using already 
       - Making adjustments through highlighting code, right click, select "Copilot", then select "editor inline chat"
       - Used this to find a carrying capacity 
-      - Enter and tabbed until copilot gave me what I wanted the graph to look like 
+      - Enter and hit tab until copilot gave me what I wanted the graph to look like 
