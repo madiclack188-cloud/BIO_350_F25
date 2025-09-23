@@ -43,3 +43,28 @@ IC Assignment 3: Chapter 3 of Ecology Handbook
       - Making adjustments through highlighting code, right click, select "Copilot", then select "editor inline chat"
       - Used this to find a carrying capacity 
       - Enter and hit tab until copilot gave me what I wanted the graph to look like 
+
+
+
+
+      IC Assignment 4
+       - I missed class the day this assignment was done 
+        - uploaded code from a classmates GitHub 
+         - Have not had the chance to full go through it yet, but will update ReadMe once I do
+
+      
+
+
+
+
+      IC Example 3
+       - Chapter 4
+        - How to calculate and solve for the ability to coexist?
+       - Stability 
+        - Properties for an equilibrium state 
+        - What happens when there is a pertubation (distrubance)?
+       - rx= maxium population growth rate of X
+       - Kx= carrying capacity
+       - competion term alpha: denotes the per capita* effect of y* on x to the effect of X on X
+        - in other words, measure intensity of interspecific to* intraspecific competition effects 
+       - Paid attention when more changes were made by prof, however I did not follow along because I was worried I   would mess up the code again
