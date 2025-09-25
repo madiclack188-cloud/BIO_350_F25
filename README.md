@@ -68,3 +68,48 @@ IC Assignment 3: Chapter 3 of Ecology Handbook
        - competion term alpha: denotes the per capita* effect of y* on x to the effect of X on X
         - in other words, measure intensity of interspecific to* intraspecific competition effects 
        - Paid attention when more changes were made by prof, however I did not follow along because I was worried I   would mess up the code again
+
+
+
+
+
+
+       IC Assignment 5
+        - SIR models 
+         - Susceptable Infection Removed
+        - Rabies in foxes (removed/death rate)
+         - Fox pop=1000
+         - 50% death chance per day 
+         - 1/1000 infected to susceptable meet 
+         - S=999
+         - I=1
+         - R=0
+         - Beta=1/1000
+         - S-beta*S_t*I_t
+         - I_t-d*I_t+beta*S_t*T_t
+         - R_t+d*I_t
+         - S_t+1 + I_t+1 + R_t+1 = S_t + I_t + R_t
+         - Beta 
+          - Habitat space 
+           - Quarantine 
+          - Vaccines
+        - Death rate 
+         - effective treatment 
+        - Process 
+         - import mat plot 
+         - days = 30
+         - for loop (30 days)
+         - Set return variables 
+           - S_t+1
+            - St
+           - I_t+
+            - It
+           - R_t+1
+            - Rt
+         - Giving the function 
+          - beta 
+          - death rate 
+          - S0
+          - I0
+          - R0
+          - time
