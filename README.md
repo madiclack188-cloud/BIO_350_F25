@@ -114,3 +114,19 @@ IC Assignment 3: Chapter 3 of Ecology Handbook
             - R0
             - time
          
+
+
+
+
+
+
+IC Example 4
+ - downloading files from canvas
+    - make sure to move file to right folder after download
+ - translating files into python using in line editor 
+ - make sure to create a new bash terminal 
+ - make sure to activate IC_Assignments in bash terminal before trying to activate anything 
+ - What worked: 
+    - importing things before actually starting 
+    - checking translations
+    - re-translating when given an error
