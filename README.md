@@ -129,4 +129,4 @@ IC Example 4
  - What worked: 
     - importing things before actually starting 
     - checking translations
-    - re-translating when given an error
+    - re-translating when given an error 
