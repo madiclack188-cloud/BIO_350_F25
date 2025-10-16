@@ -155,3 +155,8 @@ IC Assignment 6
         - Ft+1 = 1St + 5Tt
         - St+1 = 0.3(Ft)
         - Tt+1 = 0.5(St)
+  - Questions 
+    - What differences do you see between the two plots?
+      - The differences include different starting and ending populations that may decrease of increase depending on the traps/outside factors
+    - How much of an effect did setting up traps have on the beetle population over 150 years? 
+      - Over 150 years the traps decreased the beetle population despite their high reproduction rate/population size
