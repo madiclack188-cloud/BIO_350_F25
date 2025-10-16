@@ -130,3 +130,28 @@ IC Example 4
     - importing things before actually starting 
     - checking translations
     - re-translating when given an error 
+
+
+
+
+IC Assignment 6
+  - Matrix Models
+    - Nt+1=1.2(Nt)+o(St)
+    - St+1=0.2(Nt)+1.4(St)
+    - nt+1=A(nt)
+    - Problem info 
+      - 3 years in wild 
+      - F=first year 
+      - S=second year 
+        - 0.3(F)
+        - 2 offspring
+      - T=third year  
+        - 0.5(S)
+        - 10 offspring 
+      - ~1000 F+S
+      - 20 years pop? 
+      - age-structured model
+      - Equations 
+        - Ft+1 = 1St + 5Tt
+        - St+1 = 0.3(Ft)
+        - Tt+1 = 0.5(St)
