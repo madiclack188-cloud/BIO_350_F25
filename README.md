@@ -160,3 +160,19 @@ IC Assignment 6
       - The differences include different starting and ending populations that may decrease of increase depending on the traps/outside factors
     - How much of an effect did setting up traps have on the beetle population over 150 years? 
       - Over 150 years the traps decreased the beetle population despite their high reproduction rate/population size
+
+
+
+
+
+
+
+IC Example 5
+  - Structured Population Models (chapter 3 in Intro book)
+    - "In the language we introduced earlier, structured population models have more
+      detail than their nonstructured counterparts. They account for the differences among individuals within a population, usually by explicitly modeling them as distinct state variables. So, our single population may now be represented with two, three, or maybe 20 state variables that each depict the numbers of individuals in each population group"
+        - "A population is said to be “stage structured” if it undergoes distinct  shifts in habitat use, morphology, behavior, or any aspect of its ecology throughout its life"
+        - Transient models stabilize after a while of looking crazy
+  - Example 
+    - 
+ 
