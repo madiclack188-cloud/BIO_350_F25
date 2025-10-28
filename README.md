@@ -197,3 +197,16 @@ IC Example 5
   - cA = cB = probabilities that each patch is colonized by immigrants from the other  patch each year = 0.02
   - What is the probability that both plots will be extinct after 50 years?
     - There is ~75% chance that both patches will be extinct after 50 years.
+
+
+
+
+
+ In Class Example 6
+  - Using example data/code to create a normal distribution 
+    - bell curve 
+    - Used sample code from a website which explained what a normal distribution was and the process of coding it in python 
+      - https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/ 
+    - Example given on website: 
+      - Suppose there are 100 students in the class and in one of the mathematics tests the average marks scored by the students in the subject is 78 and the standard deviation is 25. The marks of the student follow Normal probability distribution. We can use this information to answer some questions about the student's marks. 
+      - relatively simple example however worked to improve my understanding 
