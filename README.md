@@ -175,4 +175,25 @@ IC Example 5
         - Transient models stabilize after a while of looking crazy
   - Example 
     - 
+
+
+
+
  
+
+
+ In Class Assignment 7
+  - Bt+1 = 0.8Bt + 0.25Mt + 0.1Ot
+    Mt+1 = 0.1Bt + 0.15Mt + 0.25Ot
+    Ot+1 = 0.1Bt + 0.6Mt + 0.65Ot
+  - What is the stationary state distribution of this population?
+    Pr(S = B) = 0.42
+    Pr(S = M) = 0.17
+    Pr(S = O) = 0.41
+  - A = larger patch
+  - B = smaller patch
+  - eA = probability the butterflies go locally extinct in patch A each year = 0.03
+  - eB = probability the butterflies go locally extinct in patch B each year = 0.13
+  - cA = cB = probabilities that each patch is colonized by immigrants from the other  patch each year = 0.02
+  - What is the probability that both plots will be extinct after 50 years?
+    - There is ~75% chance that both patches will be extinct after 50 years.
