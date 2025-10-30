@@ -210,3 +210,26 @@ IC Example 5
     - Example given on website: 
       - Suppose there are 100 students in the class and in one of the mathematics tests the average marks scored by the students in the subject is 78 and the standard deviation is 25. The marks of the student follow Normal probability distribution. We can use this information to answer some questions about the student's marks. 
       - relatively simple example however worked to improve my understanding 
+
+
+
+
+IC Assignment 8
+  - Probability 
+    - single variable
+      -  need a loop
+      - discrete probability distribution 
+      - A local nature museum would like to install a camera to stream real-time video of an eagle nest in the landscape surrounding the museum. The museum is hoping   to install the camera at a nest with at least two eggs in it. A published study on nesting success of this eagle species in a similar habitat reported finding 4 nests with one egg, 14 nests with two eggs, and 2 nests with three eggs. What is the probability that the camera team will find two or more eggs in the first nest that it examines? What is the probability that the team will look at three nests in a row and find only one egg in each? What is the average number of eggs per nest of this eagle species?
+        - 4 nests - 1 egg
+        - 14 nests - 2 eggs
+        - 2 nests - 3 eggs
+      - Program that takes input and answers these quesitons 
+          - probability we will find 2 eggs in 1st nest 
+          - probability team will get 3 nests in a row with 1 egg 
+          - average number of eggs per nest
+      - Be able to change variables 
+        - how many nests with 1/2/3 eggs
+        - how many nests in a row with 1 egg 
+      - 
+    - double variable 
+      - 
