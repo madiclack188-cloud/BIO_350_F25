@@ -17,7 +17,7 @@ Assignments:
     - I would like to do a Bayesian generalized linear model however if it proves to be out of my skillset I will be modeling with a normal linear model 
 - Set up the model framework
 - X --> description
-- Goals for 11/17
+- Goals for 11/18
     - What was the original paper about?
         - My paper is about how Sudden Oak Death (SOD) disease and wildfire suppression is effecting the likilhood that seedlings will sprout in an area previously effected by a wildfire that wiped out a large area of coastal California. 
         - Objective 
