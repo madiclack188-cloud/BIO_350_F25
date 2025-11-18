@@ -17,3 +17,42 @@ Assignments:
     - I would like to do a Bayesian generalized linear model however if it proves to be out of my skillset I will be modeling with a normal linear model 
 - Set up the model framework
 - X --> description
+- Goals for 11/17
+    - What was the original paper about?
+        - My paper is about how Sudden Oak Death (SOD) disease and wildfire suppression is effecting the likilhood that seedlings will sprout in an area previously effected by a wildfire that wiped out a large area of coastal California. 
+        - Objective 
+            - "(1) assess the influence of seed limitation, biotic competition, and abiotic conditions on seedling regeneration in resprouting populations; (2) investigate whether disease-fire interactions alter postfire seedling regeneration, which have implications for future disease dynamics and shifts in forest composition"
+    - Did it model anything, or are you just using their data?
+        - There were models in the original paper, however I am going to use their data to create a model with specific feature selections.
+    - What is your question or idea?
+        - I am hoping to find out how much Sudden Oak Death (SOD) is impacting seedling survival rates
+        - Question 
+            - How much does SOD effect seedling death when compared to fire morality? 
+    - What are you specifically trying to model?
+        - I am specifically trying to isolate the specific categories of the original data 
+        - Why? How will it answer you question/idea?
+            - I am hoping to better visualize the data and find the most common cause of seedling death.
+    - What is your input data type or structure?
+        - Numerical 
+    - What is your output data type?
+        - Numerical 
+    - What type of model have you decided to use to model your data? 
+        - "Model-based and sequential feature selection" 
+        - Should expresses itself in a bar graph 
+    - Practical: 
+        - Have data loaded
+        - Plot initial visualization 
+        - Explain your data type and input/output plans for your model
+            - Attributes I will be usiung 
+                - Average Slope 
+                - Elevation 
+                - Fire Mortality 
+                - Distance from Fire Edge 
+                - Pre Fire SOD Mortality
+        - Create a train/test data split
+        - Explain your model 
+            - Run a test using default or standard model parameters 
+            - Later this week and over the next 2 weeks we will discuss fine tuning model parameters to generate the most accurate model 
+        - Now that you've run the test, what are your results and what do they mean? 
+            - The test I have run was mainly to figure out how to make the bar graph I need to answer my question 
+            - It was successful, however it only shows what I already know from the data 
