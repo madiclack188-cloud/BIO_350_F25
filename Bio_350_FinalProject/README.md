@@ -56,3 +56,6 @@ Assignments:
         - Now that you've run the test, what are your results and what do they mean? 
             - The test I have run was mainly to figure out how to make the bar graph I need to answer my question 
             - It was successful, however it only shows what I already know from the data 
+    - 11/20 
+        - Making a scatter plot representing the data of all 46 columns if the original seedling data
+            - inserting line of best fit 
