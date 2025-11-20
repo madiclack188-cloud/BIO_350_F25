@@ -59,3 +59,17 @@ Assignments:
     - 11/20 
         - Making a scatter plot representing the data of all 46 columns if the original seedling data
             - inserting line of best fit 
+        - Trying to find the best way to isolate specific data
+            - bar graph did not provide the best visualizaton 
+            - scatter plot with a line of best fit is better so far
+            - created a bubble chart 
+                - not sure if this will answer my original question 
+                - easy visualization 
+            - heat map 
+                - did not give results I wanted
+            - density plot 
+                - did not give wanted results 
+            - Pie chart 
+                - provides easy visualization
+        - Scatter plot with line of best fit and pie chart proving to be the best to answer my question so far
+            - Trying to figure out how to add a key to pie chart in order to tell the difference between categories better
