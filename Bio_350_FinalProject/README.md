@@ -67,8 +67,6 @@ Assignments:
                 - easy visualization 
             - heat map 
                 - did not give results I wanted
-            - density plot 
-                - did not give wanted results 
             - Pie chart 
                 - provides easy visualization
         - Scatter plot with line of best fit and pie chart proving to be the best to answer my question so far
