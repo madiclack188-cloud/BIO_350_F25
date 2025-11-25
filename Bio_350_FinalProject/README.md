@@ -85,4 +85,22 @@ Assignments:
     - 12/1 
         - writing up and making analysis look nice
             - only include the important steps and describe each step along the way
+    
+Reflection
+- how did your project go 
+    - Overall I feel as if the project went well despite some road blocks at the beginning. Once I was able to find a paper that provided good data and the type of thing I wanted to do with that data I was able to create graphs and isolate certain data with relatively minimal help from outside sources. 
+- results you had hoped?
+    - My results ended up being that the distance to the fires edge had the most impact on seedling survival, with SOD barely having any impact on seedling survival. 
+    - I did not necessarily have any results I hoped to find which is why I am not very surprised that this was the outcome, especially since the authors came to the conclusion in the original paper that the seedlings distance from the wildfires edge did lessen their survival chances. However, the authors did not include any specific on the SOD data which is why I wanted to isolate it. 
+- how do you feel about being able to run a machine learning method? 
+    - I feel pretty good about being able to run a machine learning method, even though the one I chose, "model-based and sequential feature selection", which is one of the more easier methods in my opinion.
+- is it simpler or harder than you thought?
+    - It was not necessarily simpler or harder than I had thought. I went into this expecting to have some struggles, however since I picked a machine learning method I knew would be within my skill set I did not expect to run into any major challenges. 
+- could you incorporate this into other work? 
+    - Since I do want to go into a research heavy career field in the future I do think I could incorporate this into othe work. Most of what I would want to research would revolve around isolate specific data points in order to find correlations between variables, so this type of modeling would defiently be beneficial. 
+- what worked and what didn't?
+    - Some of the graphs I decided to try worked and some didn't. I found that the best graphs for this data was a scatter plot, including a line of best fit, and a pie chart since it was easier for me personally to see correlation between data as well as the specifics of which variable had the most effect on the seedlings survival. However, there were also graphs that definetly did work for this data like the heat map which could have either been due to the amount of data present, personal error, or both. 
+- what was frustrating and what was rewarding? 
+    - The main frustration I had during this project was finding a paper that had code/data that would work and that I was interested in. All of the papers I found did have a GitHub page linked in the methods sections, however not all of them had data I could actually access, so finding a paper that actually worked was a big relief. 
+    - In general it was very rewarding that I could successfully make the graphs I did without much help from copilot. I had relied heavily on it throughout the semester, however by choosing a modeling method that I knew was within my skillset and referencing past assignments allowed me to complete this project almost completely on my own. 
         
