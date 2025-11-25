@@ -27,7 +27,7 @@ Assignments:
     - What is your question or idea?
         - I am hoping to find out how much Sudden Oak Death (SOD) is impacting seedling survival rates
         - Question 
-            - How much does SOD effect seedling death when compared to fire morality? 
+            - How much does SOD effect the seedlings survival?
     - What are you specifically trying to model?
         - I am specifically trying to isolate the specific categories of the original data 
         - Why? How will it answer you question/idea?
@@ -73,3 +73,16 @@ Assignments:
                 - provides easy visualization
         - Scatter plot with line of best fit and pie chart proving to be the best to answer my question so far
             - Trying to figure out how to add a key to pie chart in order to tell the difference between categories better
+    - 11/24
+        - plot the results and describe how well it did 
+            - after including all of the original data the authors provided the graphs looked clearer
+        - try and tune the model or run a different model on the same type and compare how well it does
+            - ran bar graph, scatter plot, bubble chart, heat map, density plot, and pie chart
+        - did anything change in your results? what does it mean? 
+            - nothing changed with my results I was just able to create some better visualization of the original data
+        - write a discussion on the final results after you've decided you've finished your analysis
+            - after reviewing various graphs I feel as if a scatter plot with a line of best fit and a pie chart give the best visualization in order to answer my question of how much SOD actually effected seed death. based on the graphs it is easy to see that SOD had vary little effect on seedling death when compard to the other variables like distance from fires edge, which effected the seedlings the most.
+    - 12/1 
+        - writing up and making analysis look nice
+            - only include the important steps and describe each step along the way
+        
